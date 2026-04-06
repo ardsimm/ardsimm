@@ -21,7 +21,8 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-8c03fc?logo=python&logoColor=white" />
 </p>
 
 ### **Frameworks, Libraries and Runtimes**
@@ -54,18 +55,8 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
 
 ### 🔹 **42 School Projects**
 
-- **Libft** – Custom C standard library  
-  🤓 Focus on code reusability and safety.  
-  - <a href="https://github.com/SimardCodeTard/libft"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
-- **Get Next Line** – Line-by-line file reader  
-   💪 Focus on code safety and optimisation  
-   - <a href="https://github.com/SimardCodeTard/get_next_line"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
-- **ft_printf**
-  - <a href="https://github.com/SimardCodeTard/ft_printf"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
-- **Born2BeRoot** – Linux & security exploration *(Coming soon !)*
+- **Ft monorepo** 
+  Check out <a href="https://github.com/SimardCodeTard/ft">this monorepo</a> to see my work at the 42 school !
 
 #### 💠42 School Side Projects
 
@@ -73,8 +64,6 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
    🧵 Focus on code reusability and asyncronous code execution.
   
    - <a href="https://github.com/SimardCodeTard/c-tester-framework"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
-- **My own 2D game with a custom engine** - A 2D plateformer with a custom game engine and map editor *(Coming soon-ish !)*
 
 ---
 
