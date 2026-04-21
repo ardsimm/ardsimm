@@ -50,20 +50,20 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
 - A personal dashboard featuring a todo list, weather widget, and calendar, built with **Next.js**, **SCSS**, and **MUI Base**.  
    ✨ Focus on UI/UX, modular widgets, and clean design.
   
-   - <a href="https://github.com/SimardCodeTard/life-dashboard"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
+   - <a href="https://github.com/ardsimm/life-dashboard"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 ---
 
 ### 🔹 **42 School Projects**
 
 - **Ft monorepo** 
-  Check out <a href="https://github.com/SimardCodeTard/ft">this monorepo</a> to see my work at the 42 school !
+  Check out <a href="https://github.com/ardsimm/ft">this monorepo</a> to see my work at the 42 school !
 
 #### 💠42 School Side Projects
 
 - **C Tester Framework** – My own unit test framework in C  
    🧵 Focus on code reusability and asyncronous code execution.
   
-   - <a href="https://github.com/SimardCodeTard/c-tester-framework"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
+   - <a href="https://github.com/ardsimm/c-tester-framework"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
 ---
 
