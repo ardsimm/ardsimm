@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=250&section=header&text=Simard&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20at%2042%20Lyon" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=250&section=header&text=Ardsim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20at%2042%20Lyon" />
 </p>
 
 # 👋 Hi there! Welcome to my GitHub profile !
