@@ -55,8 +55,10 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
 
 ### 🔹 **42 School Projects**
 
-- **Ft monorepo** 
-  Check out <a href="https://github.com/ardsimm/ft">this monorepo</a> to see my work at the 42 school !
+- **Ft monorepo** - A monorepo containing the project of my curriculum at 42
+   🤓 Focus on system programming, object-oriented programming and much more !
+  
+   - <a href="https://github.com/ardsimm/ft"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
 #### 💠42 School Side Projects
 
