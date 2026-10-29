@@ -6,7 +6,7 @@
 # 👋 Hi there! Welcome to my GitHub profile !
 
 I'm a student at **42**, passionate about software development, backend architecture, and modern web technologies. I am currently exploring the world of Linux and system programming.
-Before joining 42, I earned a **BUT Informatique**, during which I spent a full year in work-study as a web developer using **Angular** and **Spring Boot**.
+Before joining 42, I earned a **Bachelor in IT**, during which I spent a full year in work-study as a fullstack developer using **Angular** and **Spring Boot**.
 
 🎮 Outside of programming, I’m a big video game fan.  
 My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft**.
